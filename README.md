@@ -45,9 +45,10 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;Name: Jixiong Su</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人，注定改变不了这个世界。</p>
+<p>&emsp;&emsp;Nickname：Achuan-2（Tron)</p>
+<p>&emsp;&emsp;Hometown: Ningde/Quanzhou, Fujian Province in China</p>
+<p>&emsp;&emsp; Educational experience
+   - Undergraduate(2018.09-2022.06): Bioinfomatics, Huazhong University of Science and Technology</p>
 <p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
 
 </td></tr>
