@@ -42,7 +42,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png](https://raw.githubusercontent.com/HITCSzwx/python-26/main/%E6%9F%AF%E5%8D%97.jpg)" />
 
 <p>&emsp;&emsp;Name: Wenxiang Zheng</p>
 <p>&emsp;&emsp;Nickname：HITzwx</p>
