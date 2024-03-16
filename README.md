@@ -53,72 +53,7 @@
 </td></tr>
 
 
-<tr><td>
 
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HITLittleZheng&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HITLittleZheng&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HITLittleZheng&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                494 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌆 Daytime                551 commits         ████████░░░░░░░░░░░░░░░░░   31.18 % 
-🌃 Evening                429 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Tuesday                  141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Wednesday                255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
-Saturday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
-Python                   2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
-TypeScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 14 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/03/2024 01:13:19 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
 
 </table>
 
@@ -151,8 +86,6 @@ Mac                      7 hrs 14 mins       ███████████�
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
