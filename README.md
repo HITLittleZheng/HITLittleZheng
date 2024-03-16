@@ -44,11 +44,11 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;Name: Jixiong Su</p>
-<p>&emsp;&emsp;Nickname：Achuan-2（Tron)</p>
-<p>&emsp;&emsp;Hometown: Ningde/Quanzhou, Fujian Province in China</p>
-<p>&emsp;&emsp; Educational experience
-   - Undergraduate(2018.09-2022.06): Bioinfomatics, Huazhong University of Science and Technology</p>
+<p>&emsp;&emsp;Name: Wenxiang Zheng</p>
+<p>&emsp;&emsp;Nickname：HITzwx</p>
+<p>&emsp;&emsp;Hometown: Hengshui, HeBei Province in China</p>
+<p>&emsp;&emsp;Educational experience:</p>
+<p>&emsp;&emsp; &emsp;    Undergraduate(2021.09-now): Artificial intelligence (AI), Harbin Institute of Technology</p>
 <p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
 
 </td></tr>
