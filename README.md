@@ -42,7 +42,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://raw.githubusercontent.com/HITCSzwx/python-26/main/%E6%9F%AF%E5%8D%97.jpg" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/HITCSzwx/python-26/main/%E6%9F%AF%E5%8D%97%20-%20%E5%89%AF%E6%9C%AC(1).jpg" />
 
 <p>&emsp;&emsp;Name: Wenxiang Zheng</p>
 <p>&emsp;&emsp;Nickname：HITzwx</p>
