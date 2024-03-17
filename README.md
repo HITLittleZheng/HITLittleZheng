@@ -50,8 +50,11 @@
 
 </td></tr>
 
+<tr><td>
+  
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HITLittleZheng&layout=compact)
 
-
+</td></tr>
 
 </table>
 
