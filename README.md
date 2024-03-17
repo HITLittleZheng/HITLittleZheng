@@ -68,6 +68,11 @@
 
 </td></tr>
 
+<tr><td>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</td></tr>
+
 </table>
 
 
