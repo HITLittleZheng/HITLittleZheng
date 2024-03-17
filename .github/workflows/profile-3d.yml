@@ -15,11 +15,12 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: "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"
-          USERNAME: "HITLittleZheng" # 或者使用 ${{ github.actor }} 来动态获取用户名
+          USERNAME: ${{ github.actor }} # 或者使用  来动态获取用户名
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "Update GitHub 3D Contribution Graph"
-          git push
+          # 尝试推送，如果失败则输出错误信息
+          git push || echo "Failed to push changes"
