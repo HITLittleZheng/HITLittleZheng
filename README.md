@@ -309,6 +309,8 @@ Windows                  43 mins             ███████████�
   </tr>
 </table>
 
+<img width="120%" src="https://repobeats.axiom.co/api/embed/9c63e58188f143fd375cb755fc598249a0536929.svg" />
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
