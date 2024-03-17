@@ -1,10 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 18 * * *" # 每天UTC时间18:00，即JST时间03:00
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push: # 当有人推送到仓库时触发
 
 jobs:
   build:
@@ -14,13 +13,11 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: "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"
-          USERNAME: ${{ github.actor }} # 或者使用  来动态获取用户名
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HITLittleZheng
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Update GitHub 3D Contribution Graph"
-          # 尝试推送，如果失败则输出错误信息
-          git push || echo "Failed to push changes"
+          git diff --staged --exit-code || (git commit -m "generated" && git push)
