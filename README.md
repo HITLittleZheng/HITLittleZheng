@@ -52,6 +52,20 @@
 
 <tr><td>
 
+### 🤾‍♂️ Funny Soul
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played-readme.vercel.app/api?user=31jolnivjpbebnce7yvoa7bdzuke&width=600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played-readme.vercel.app/api?user=31jolnivjpbebnce7yvoa7bdzuke&width=600" />
+    <img alt="Jokes Card" src="https://spotify-recently-played-readme.vercel.app/api?user=31jolnivjpbebnce7yvoa7bdzuke&width=600" />
+  </picture>
+</div>
+
+<tr><td>
+
 ### 📊 WakaTime
 
 <picture>
@@ -117,6 +131,7 @@ Windows                  3 hrs 4 mins        ███████████�
 </td></tr>
 
 </table>
+
 
 
 <!-- ########################################## 分割 ########################################## -->
