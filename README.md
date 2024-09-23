@@ -112,18 +112,17 @@ Sunday                   100 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 33 mins        █████████████████████████   98.81 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/09/2024 00:54:06 UTC
+ Last Updated on 23/09/2024 00:50:53 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
