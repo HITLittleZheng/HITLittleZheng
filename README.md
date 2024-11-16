@@ -41,13 +41,12 @@
 
 <img align="right" width="100" src="https://raw.githubusercontent.com/HITCSzwx/python-26/main/%E6%9F%AF%E5%8D%97%20-%20%E5%89%AF%E6%9C%AC(1).jpg" />
 
-<p>&emsp;&emsp;Name: Wenxiang Zheng</p>
-<p>&emsp;&emsp;Nickname：HITzwx</p>
-<p>&emsp;&emsp;Hometown: Hengshui, HeBei Province in China</p>
-<p>&emsp;&emsp;Educational experience:</p>
-<p>&emsp;&emsp; &emsp;    Undergraduate(2021.09-now): Artificial intelligence (AI), Harbin Institute of Technology</p>
-<p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
-
+<p>&emsp;👤 Name: Wenxiang Zheng</p>
+<p>&emsp;🏷️ Nickname：HITzwx</p>
+<p>&emsp;🏡 Hometown: Hengshui, HeBei Province in China</p>
+<p>&emsp;🎓 Educational experience:</p>
+<p>&emsp;&emsp;📚 Undergraduate(2021.09-now): Artificial intelligence (AI), Harbin Institute of Technology</p>
+<p>&emsp;💡 <em><strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></em></p>
 </td></tr>
 
 <tr><td>
