@@ -45,8 +45,8 @@
 <p>&emsp;🏷️ Nickname：HITzwx</p>
 <p>&emsp;🏡 Hometown: Hengshui, HeBei Province in China</p>
 <p>&emsp;🎓 Educational experience:</p>
-<p>&emsp;&emsp;📚 Undergraduate(2021.09-2025.06): Artificial intelligence (AI), Harbin Institute of Technology</p>
-<p>&emsp;&emsp;📚 Master(2025.09-now): Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology</p>
+<p>&emsp;&emsp;📚 Undergraduate (2021.09-2025.06): Artificial Intelligence (AI), Harbin Institute of Technology</p>
+<p>&emsp;&emsp;📚 Master (2025.09-present): Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology</p>
 
 <p>&emsp;💡 <em><strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></em></p>
 </td></tr>
