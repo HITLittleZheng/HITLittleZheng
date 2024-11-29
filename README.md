@@ -53,7 +53,7 @@
 
 <tr><td>
 
-### 🤺 Contribution
+### :raised_hands: Contribution
 
 <p align="center">
   <img height="200em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HITLittleZheng&count_private=true&theme=react" />
