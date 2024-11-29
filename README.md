@@ -6,7 +6,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小郑同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
-
+  
   <!-- knock code pictures 敲代码的图片 -->
  
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -49,6 +49,19 @@
 <p>&emsp;&emsp;📚 Master (2025.09-present): Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology</p>
 
 <p>&emsp;💡 <em><strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></em></p>
+</td></tr>
+
+<tr><td>
+
+### 🤺 Contribution
+
+<p align="center">
+  <img height="200em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HITLittleZheng&count_private=true&theme=react" />
+  <img height="173.6em" align="center" src="https://github-readme-stats.vercel.app/api?username=HITLittleZheng&count_private=true&hide_border=true&theme=react" />
+  <img height="173.6em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HITLittleZheng&utcOffset=8&count_private=true&hide_border=true&theme=react" / >
+  <img height="159.7em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HITLittleZheng&count_private=true&hide_border=true&theme=react" / >
+  <img height="159.7em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITLittleZheng&layout=compact&count_private=true&hide_border=true&theme=react" />
+</p>
 </td></tr>
 
 <tr><td>
