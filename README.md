@@ -17,8 +17,8 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://space.bilibili.com/1134241976/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/aa12367?type=blog/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/man-xin-zhao-hua/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;  
+    <a href="https://blog.csdn.net/aa12367/category_12577037.html?spm=1001.2014.3001.5482"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/column/c_1785044713151188992"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;  
      <a href="https://github.com/HITLittleZheng/"><img src="https://komarev.com/ghpvc/?username=HITLittleZheng&abbreviated=true" /></a>&emsp;  
   </div>
 
