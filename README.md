@@ -126,17 +126,18 @@ Sunday                   116 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 7 mins              ██████████████░░░░░░░░░░░   55.57 % 
+Git                      6 mins              ███████████░░░░░░░░░░░░░░   44.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2025 01:02:37 UTC
+ Last Updated on 11/07/2025 01:03:09 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
