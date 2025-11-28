@@ -126,19 +126,17 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 mins              ███████████████░░░░░░░░░░   59.87 % 
-XML                      6 mins              ██████████░░░░░░░░░░░░░░░   40.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   99.28 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/11/2025 00:58:54 UTC
+ Last Updated on 28/11/2025 00:57:52 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
