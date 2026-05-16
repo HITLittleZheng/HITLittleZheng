@@ -98,8 +98,47 @@
 <tr><td>
   
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 02:25:20 UTC
+```text
+🌞 Morning                318 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+🌆 Daytime                559 commits         ███████████░░░░░░░░░░░░░░   43.10 % 
+🌃 Evening                361 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Wednesday                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Thursday                 230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Saturday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Sunday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   5 hrs 3 mins        █████████████████░░░░░░░░   69.25 % 
+Markdown                 1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 17 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  7 hrs 17 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 02:07:29 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
