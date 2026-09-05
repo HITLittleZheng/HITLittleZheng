@@ -127,23 +127,23 @@ Sunday                   185 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   23 mins             ██████████░░░░░░░░░░░░░░░   38.60 % 
-JSON                     21 mins             █████████░░░░░░░░░░░░░░░░   35.04 % 
-Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+JSON                     12 mins             ████████░░░░░░░░░░░░░░░░░   32.78 % 
+Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Python                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Bash                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 
 🔥 Editors: 
-VS Code                  43 mins             ██████████████████░░░░░░░   71.91 % 
-Codex Vscode             17 mins             ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+VS Code                  20 mins             ██████████████░░░░░░░░░░░   54.99 % 
+Codex Vscode             17 mins             ███████████░░░░░░░░░░░░░░   45.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (41.03%)
+⏱ AI Coding Time: 17 mins (45.01%)
 
 ✍️ 0 lines written by AI, 990 lines written by hand (0.0% AI-written)
 
@@ -151,19 +151,19 @@ Windows                  1 hr 1 min          ███████████�
 
 💵 $0.90 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 291 characters per prompt
+📝 Concise Prompter — average 256 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 02:09:13 UTC
+ Last Updated on 05/09/2026 02:09:34 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
